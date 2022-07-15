@@ -1,0 +1,42 @@
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\GUI.exe.config
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\GUI.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\GUI.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\Services.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\Services.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.WordParser.resources
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\aa\GUI.resources.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.WordParser.aa.resources
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\aa\GUI.resources.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\GUI\obj\Debug\GUI.MessageBox.resources
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.WordParser.resources
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.MessageBox.resources
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.WordParser.aa.resources
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\Services.dll
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\Newtonsoft.Json.dll
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\Services.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\Newtonsoft.Json.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\Newtonsoft.Json.xml
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\WordParser.exe.config
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\WordParser.exe
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\WordParser.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\aa\WordParser.resources.dll
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\aa\WordParser.resources.dll
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\WordParser.exe
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\obj\Debug\WordParser.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\log4net.dll
+C:\SVN_Repo\Test Uploader\FirstTest\GUI\bin\Debug\log4net.xml

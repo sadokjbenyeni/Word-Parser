@@ -1,0 +1,22 @@
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\test.exe.config
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\test.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\test.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\obj\Debug\test.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\obj\Debug\test.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\test\obj\Debug\test.csproj.CopyComplete
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\test.exe.config
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\test.exe
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\test.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\HtmlAgilityPack.dll
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\HtmlAgilityPack.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\test\bin\Debug\HtmlAgilityPack.xml
+C:\SVN_Repo\Test Uploader\FirstTest\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\SVN_Repo\Test Uploader\FirstTest\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\SVN_Repo\Test Uploader\FirstTest\test\obj\Debug\test.csproj.CopyComplete
+C:\SVN_Repo\Test Uploader\FirstTest\test\obj\Debug\test.exe
+C:\SVN_Repo\Test Uploader\FirstTest\test\obj\Debug\test.pdb

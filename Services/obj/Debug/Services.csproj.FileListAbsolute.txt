@@ -1,0 +1,28 @@
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\Services.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\Services.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\test.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\test.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\test.exe.config
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\obj\Debug\Services.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\obj\Debug\Services.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\Services\bin\Debug\Newtonsoft.Json.xml
+C:\SVN_Repo\Test Uploader\FirstTest\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\SVN_Repo\Test Uploader\FirstTest\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\Services.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\Services.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\Newtonsoft.Json.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\Newtonsoft.Json.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\Newtonsoft.Json.xml
+C:\SVN_Repo\Test Uploader\FirstTest\Services\obj\Debug\Services.csproj.CopyComplete
+C:\SVN_Repo\Test Uploader\FirstTest\Services\obj\Debug\Services.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\obj\Debug\Services.pdb
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\HtmlReportControl.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\System.Windows.Forms.Ribbon35.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\en\HtmlReportControl.resources.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\log4net.dll
+C:\SVN_Repo\Test Uploader\FirstTest\Services\bin\Debug\log4net.xml

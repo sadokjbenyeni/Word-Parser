@@ -1,0 +1,14 @@
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Json.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Json.pdb
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Services.dll
+C:\Users\sadok.jbenyeni\source\repos\FirstTest\ConsoleApp1\bin\Debug\Services.pdb
